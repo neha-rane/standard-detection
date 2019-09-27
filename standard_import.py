@@ -1,4 +1,4 @@
-f = open("codes/clsfun.py")
+f = open("testcases/clsfun.py")
 lineNo = 0
 a = list(map(str,f))
 
